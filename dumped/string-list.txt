@@ -1,0 +1,342 @@
+Clean  >  exit
+Clean  >  reg delete "HKEY_USERS\
+Clean  >  reg delete "HKEY_CURRENT_USER\SOFTWARE\EpicGames" /f
+Clean  >  reg delete "HKEY_LOCAL_MACHINE\SOFTWARE\EpicGames" /f
+Clean  >  reg delete "HKEY_LOCAL_MACHINE\SOFTWARE\Classes\com.epicgames.launcher" /f
+Clean  >  reg delete "HKEY_CURRENT_USER\Software\Epic Games\Unreal Engine\Identifiers" /f
+Clean  >  reg delete "HKEY_CURRENT_USER\Software\Epic Games\Unreal Engine\Hardware Survey" /f
+Clean  >  reg delete "HKEY_CURRENT_USER\Software\Classes\com.epicgames.launcher" /f
+Clean  >  reg delete "HKEY_LOCAL_MACHINE\Software\Epic Games" /f
+Clean  >  reg delete "HKEY_CLASSES_ROOT\com.epicgames.launcher" /f
+Clean  >  reg delete "HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Epic Games" /f
+Clean  >  reg delete "HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\EpicGames" /f
+Clean  >  reg delete "HKEY_LOCAL_MACHINE\SOFTWARE\Classes\com.epicgames.launcher" /f
+Clean  >  reg delete "HKEY_LOCAL_MACHINE\Software\Epic Games" /f
+Clean  >  reg delete "HKEY_CURRENT_USER\Software\Epic Games" /f
+Clean  >  reg delete "HKEY_LOCAL_MACHINE\Software\Epic Games" /f
+Clean  >  taskkill /f /im FortniteLauncher.exe
+Clean  >  taskkill /f /im FortniteClient-Win64-Shipping_BE.exe
+Clean  >  taskkill /f /im FortniteClient-Win64-Shipping.exe
+Clean  >  taskkill /f /im FortniteClient-Win64-Shipping_EAC.exe
+Clean  >  taskkill /f /im epicgameslauncher.exe
+Clean  >  taskkill /f /im BattleEye.exe
+Clean  >  taskkill /f /im BEServices.exe
+Clean  >  taskkill /f /im BEService.exe
+Clean  >  taskkill /f /im EasyAntiCheat.exe
+Clean  >  taskkill /f /im CEFProcess.exe
+Clean  >  taskkill /f /im UnrealCEFSubProcess.exe
+Clean  >  cmd.exe
+Spoof  >  cmd.exe
+Spoof  >  https://cdn.discordapp.com/attachments/1089182060314366022/1091486545736892476/mapper.exe
+Spoof  >  https://cdn.discordapp.com/attachments/1096832033206042745/1101066196301922385/driver.sys
+Spoof  >  C:\Windows\IME\driver.sys
+Spoof  >  C:\Windows\IME\mapper.exe
+InitializeComponent  >  Login
+InitializeComponent  >  Login
+InitializeComponent  >  $this.Icon
+InitializeComponent  >  Current Session Validation Status: 
+
+InitializeComponent  >  siticoneLabel1
+InitializeComponent  >  Segoe UI
+InitializeComponent  >  Status: Awaiting login
+InitializeComponent  >  status
+InitializeComponent  >  Segoe UI
+InitializeComponent  >  Register
+InitializeComponent  >  RgstrBtn
+InitializeComponent  >  Segoe UI
+InitializeComponent  >  
+InitializeComponent  >  
+InitializeComponent  >  password
+InitializeComponent  >  Password
+InitializeComponent  >  
+InitializeComponent  >  
+InitializeComponent  >  username
+InitializeComponent  >  Username
+InitializeComponent  >  
+InitializeComponent  >  
+InitializeComponent  >  key
+InitializeComponent  >  Key
+InitializeComponent  >  Login
+InitializeComponent  >  LoginBtn
+InitializeComponent  >  Segoe UI
+InitializeComponent  >  7th Software
+InitializeComponent  >  label2
+InitializeComponent  >  Segoe UI Semibold
+InitializeComponent  >  label1
+InitializeComponent  >  Segoe UI Light
+InitializeComponent  >  siticoneControlBox2
+InitializeComponent  >  siticoneControlBox1
+LicBtn_Click  >  Status: 
+RgstrBtn_Click  >  Status: 
+LoginBtn_Click  >  Status: 
+UpgradeBtn_Click  >  Status: 
+Login_Load  >  Current Session Validation Status: {0}
+Login_Load  >  Version of this program does not match the one online. Furthermore, the download link online isn't set. You will need to manually obtain the download link from the developer
+Login_Load  >  Invalid option
+Login_Load  >  cmd.exe
+Login_Load  >  "
+Login_Load  >  /C choice /C Y /N /D Y /T 3 & Del "
+Login_Load  >  .exe
+Login_Load  >  -
+Login_Load  >  .exe
+Login_Load  >  Auto update
+Login_Load  >  Yes to open file in browser
+No to download file automatically
+Login_Load  >  invalidver
+InitializeComponent  >  7th Spoofer
+InitializeComponent  >  Main
+InitializeComponent  >  $this.Icon
+InitializeComponent  >  siticoneLabel3
+InitializeComponent  >  Arial Black
+InitializeComponent  >  siticoneLabel3.BackgroundImage
+InitializeComponent  >  USER INFO
+InitializeComponent  >  siticoneLabel2
+InitializeComponent  >  Arial Black
+InitializeComponent  >  Spoof
+InitializeComponent  >  siticoneRoundedButton1
+InitializeComponent  >  Segoe UI
+InitializeComponent  >  siticoneLabel1
+InitializeComponent  >  lastLogin
+InitializeComponent  >  hwid
+InitializeComponent  >  ip
+InitializeComponent  >  subscription
+InitializeComponent  >  expiryLabel
+InitializeComponent  >  expiry
+InitializeComponent  >  Arial Black
+InitializeComponent  >  usernameLabel
+InitializeComponent  >  key
+InitializeComponent  >  Arial Black
+InitializeComponent  >  7th Spoofer
+InitializeComponent  >  label2
+InitializeComponent  >  Arial Black
+InitializeComponent  >  label1
+InitializeComponent  >  Segoe UI Light
+InitializeComponent  >  siticoneControlBox2
+InitializeComponent  >  siticoneControlBox1
+Main_Load  >  Subscription: 
+Main_Load  >  Expiry: 
+Main_Load  >  Username: CrackedBySoarCheats#1337
+iv_key  >  -
+str_to_byte_arr  >  
+
+  The session has ended, open the program again.
+byte_arr_to_str  >  {0:x2}
+expirydaysleft  >   Hours Left
+expirydaysleft  >   Days 
+expirydaysleft  >  Please initialize first. Add KeyAuthApp.init(); on load.
+RemoveUnwantedCert  >  CN=asdhashdgashd
+RemoveUnwantedCert  >  MY
+RemoveUnwantedCert  >  CN=asdhashdgashd
+RemoveUnwantedCert  >  Root
+req_unenc  >  
+req_unenc  >  Connection failure. Please try again, or contact us for help.
+req_unenc  >  https://keyauth.win/api/1.1/
+req  >  
+req  >  Connection failure. Please try again, or contact us for help.
+req  >  
+req  >  You're connecting too fast to loader, slow down.
+req  >  https://keyauth.win/api/1.0/
+error  >   && timeout /t 5"
+error  >  /c start cmd /C "color b && title Error && echo 
+error  >  cmd.exe
+checksum  >  
+checksum  >  -
+log  >  init_iv
+log  >  ownerid
+log  >  name
+log  >  sessionid
+log  >  message
+log  >  pcuser
+log  >  log
+log  >  type
+log  >  Please initialize first. Add KeyAuthApp.init(); on load.
+download  >  init_iv
+download  >  ownerid
+download  >  name
+download  >  sessionid
+download  >  fileid
+download  >  file
+download  >  type
+download  >  Please initialize first. Add KeyAuthApp.init(); on load. File is empty since no request could be made.
+webhook  >  init_iv
+webhook  >  ownerid
+webhook  >  name
+webhook  >  sessionid
+webhook  >  conttype
+webhook  >  body
+webhook  >  params
+webhook  >  webid
+webhook  >  webhook
+webhook  >  type
+webhook  >  Please initialize first. Add KeyAuthApp.init(); on load.
+checkblack  >  init_iv
+checkblack  >  ownerid
+checkblack  >  name
+checkblack  >  sessionid
+checkblack  >  hwid
+checkblack  >  checkblacklist
+checkblack  >  type
+checkblack  >  Please initialize first. Add KeyAuthApp.init(); on load.
+chatsend  >  init_iv
+chatsend  >  ownerid
+chatsend  >  name
+chatsend  >  sessionid
+chatsend  >  channel
+chatsend  >  message
+chatsend  >  chatsend
+chatsend  >  type
+chatsend  >  Please initialize first. Add KeyAuthApp.init(); on load.
+chatget  >  init_iv
+chatget  >  ownerid
+chatget  >  name
+chatget  >  sessionid
+chatget  >  channel
+chatget  >  chatget
+chatget  >  type
+chatget  >  Please initialize first. Add KeyAuthApp.init(); on load.
+fetchOnline  >  init_iv
+fetchOnline  >  ownerid
+fetchOnline  >  name
+fetchOnline  >  sessionid
+fetchOnline  >  fetchOnline
+fetchOnline  >  type
+fetchOnline  >  Please initialize first. Add KeyAuthApp.init(); on load.
+var  >  init_iv
+var  >  ownerid
+var  >  name
+var  >  sessionid
+var  >  varid
+var  >  var
+var  >  type
+var  >  Please initialize first. Add KeyAuthApp.init(); on load.
+ban  >  init_iv
+ban  >  ownerid
+ban  >  name
+ban  >  sessionid
+ban  >  reason
+ban  >  ban
+ban  >  type
+ban  >  Please initialize first. Add KeyAuthApp.init(); on load.
+getvar  >  init_iv
+getvar  >  ownerid
+getvar  >  name
+getvar  >  sessionid
+getvar  >  var
+getvar  >  getvar
+getvar  >  type
+getvar  >  Please initialize first. Add KeyAuthApp.init(); on load.
+setvar  >  init_iv
+setvar  >  ownerid
+setvar  >  name
+setvar  >  sessionid
+setvar  >  data
+setvar  >  var
+setvar  >  setvar
+setvar  >  type
+setvar  >  Please initialize first. Add KeyAuthApp.init(); on load.
+check  >  init_iv
+check  >  ownerid
+check  >  name
+check  >  sessionid
+check  >  check
+check  >  type
+check  >  Please initialize first. Add KeyAuthApp.init(); on load.
+license  >  init_iv
+license  >  ownerid
+license  >  name
+license  >  sessionid
+license  >  hwid
+license  >  key
+license  >  license
+license  >  type
+license  >  Please initialize first. Add KeyAuthApp.init(); on load.
+upgrade  >  init_iv
+upgrade  >  ownerid
+upgrade  >  name
+upgrade  >  sessionid
+upgrade  >  key
+upgrade  >  username
+upgrade  >  upgrade
+upgrade  >  type
+upgrade  >  Please initialize first. Add KeyAuthApp.init(); on load.
+button  >  SHEESH
+button  >  
+
+
+button  >  Server
+button  >  Rety
+button  >  Retry-After
+button  >  Location
+button  >  Location
+button  >  Via
+button  >  Via
+button  >  *
+button  >  Access-Control-Allow-Origin
+button  >  GET, POST
+button  >  Access-Control-Allow-Methods
+button  >  /
+button  >  http://localhost:1337/
+button  >  Please initialize first
+web_login  >  Whats up?
+web_login  >  SHEESH
+web_login  >  ownerid
+web_login  >  name
+web_login  >  sessionid
+web_login  >  hwid
+web_login  >  token
+web_login  >  username
+web_login  >  login
+web_login  >  type
+web_login  >   
+web_login  >  &token=
+web_login  >  
+web_login  >  /handshake?user=
+web_login  >  
+
+
+web_login  >  Server
+web_login  >  Retry
+web_login  >  Retry-After
+web_login  >  Location
+web_login  >  Location
+web_login  >  Via
+web_login  >  Via
+web_login  >  *
+web_login  >  Access-Control-Allow-Origin
+web_login  >  GET, POST
+web_login  >  Access-Control-Allow-Methods
+web_login  >  /
+web_login  >  http://localhost:1337/
+web_login  >  handshake
+web_login  >  Please initialize first. Add KeyAuthApp.init(); on load.
+login  >  init_iv
+login  >  ownerid
+login  >  name
+login  >  sessionid
+login  >  hwid
+login  >  pass
+login  >  username
+login  >  login
+login  >  type
+login  >  Please initialize first. Add KeyAuthApp.init(); on load.
+register  >  init_iv
+register  >  ownerid
+register  >  name
+register  >  sessionid
+register  >  hwid
+register  >  key
+register  >  pass
+register  >  username
+register  >  register
+register  >  type
+register  >  Please initialize first. Add KeyAuthApp.init(); on load.
+init  >  invalidver
+init  >  Application not found. Please check your application name, secret, ownerID, and version.
+init  >  KeyAuth_Invalid
+init  >  init_iv
+init  >  ownerid
+init  >  name
+init  >  enckey
+init  >  hash
+init  >  ver
+init  >  init
